@@ -1,0 +1,6 @@
+SBI		BTN_DDR,BTN_HOLD			;выход HOLD
+SBI		BTN_DDR,BTN_CLK				;Выход CLK
+SBI		BTN_PORT,BTN_DATA_IN		;вход DATA_IN
+	
+
+
